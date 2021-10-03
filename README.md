@@ -8,3 +8,7 @@ The study area includes four wilderness areas located in the Roosevelt National 
 ###### 5 - Aspen
 ###### 6 - Douglas-fir
 ###### 7 - Krummholz
+
+Predicting forest cover type kaggle competition. Trying out various data visualisation techniques. https://www.kaggle.com/c/forest-cover-type-prediction
+
+The Project is Ongoing
